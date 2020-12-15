@@ -1,0 +1,4 @@
+#Tue Dec 15 10:47:58 NPT 2020
+base.0=/home/arjun/Desktop/Work Space/Flutter/fluttergca/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
